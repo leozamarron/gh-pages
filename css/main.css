@@ -357,7 +357,6 @@ div.logo img {
 @media only screen and (min-width:768px) {
   div.logo {
     width:18%;
-    margin-top: 10px;
   }
 }
 /** ---------------------------------Navegacion principal--------------------------------- **/
@@ -365,7 +364,7 @@ div.logo img {
 nav.navegacion-principal ul{
   display: flex;
   float: right;
-  padding-top: 10px;
+  padding-top: 18px;
 }
 nav.navegacion-principal ul li {
   float: right;
@@ -474,7 +473,7 @@ div.menu-movil span{
   margin: auto;
   overflow: hidden;
   position: relative;
-  margin-top: 50px;
+  margin-top: 60px;
 }
 .slider {
   display: flex;
