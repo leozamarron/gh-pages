@@ -405,7 +405,7 @@ nav.navegacion-principal a {
    transition: all .6s ease;
    width: 100%;
    display: block;
-   text-align: center;
+   text-align: -webkit-center;
    margin-bottom: 20px;
    clear: both;
  }
